@@ -1,6 +1,6 @@
 # LDS2AE
 # Cite
-@inproceedings{
+@inproceedings{  
     qu2024missing,  
     title={LDS$^2$AE: Local Diffusion Shared-Specific Autoencoder for Multimodal Remote Sensing Image Classification with Arbitrary Missing Modalities},  
     author={Jiahui Qu, Yuanbo Yang, Wenqian Dong, Yufei Yang},  
