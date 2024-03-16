@@ -1,8 +1,6 @@
 # LDS $^2$ AE
 The python code implementation of the AAAI 2024 paper "LDS$^2$AE: Local Diffusion Shared-Specific Autoencoder for Multimodal Remote Sensing Image Classification with Arbitrary Missing Modalities"
 
-# RHDN
-The python code implementation of the paper "LDS$^2$AE: Local Diffusion Shared-Specific Autoencoder for Multimodal Remote Sensing Image Classification with Arbitrary Missing Modalities"
 
 # Requirements
 
