@@ -25,11 +25,11 @@ Training & Testing
 just run the LDS2AE_main.py
 
 # Cite
-@inproceedings{qu2024missing,  
-    &emsp;title={LDS $^2$ AE: Local Diffusion Shared-Specific Autoencoder for Multimodal Remote Sensing Image Classification with Arbitrary Missing Modalities},    
-    &emsp;author={Jiahui Qu, Yuanbo Yang, Wenqian Dong, Yufei Yang},    
-    &emsp;booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},    
-    &emsp;year={2024}  
-}
+@inproceedings{Qu2024LDS2AELD,  
+title={LDS2AE: Local Diffusion Shared-Specific Autoencoder for Multimodal Remote Sensing Image Classification with Arbitrary Missing Modalities},  
+author={Jiahui Qu and Yuanbo Yang and Wenqian Dong and Yufei Yang},  
+booktitle={AAAI Conference on Artificial Intelligence},  
+year={2024},  
+url={https://api.semanticscholar.org/CorpusID:268701740} }
 
 
